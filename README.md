@@ -16,8 +16,8 @@ I'm **Ari Wira Atmaja**, a passionate software engineer currently on the lookout
 - Docker: Mastering containerization to improve deployment and scalability.
   
 📫 **How to reach me:** &nbsp;
-- [![Linkedin Badge](https://img.shields.io/badge/Connect%20With%20Me%20-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ari-wira-atmaja)
-- [![Gmail Badge](https://img.shields.io/badge/Email%20Me%20on%20Gmail-red?style=for-the-badge&logo=gmail)](mailto:ariwiraatmaja@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/Connect%20With%20Me%20-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ari-wira-atmaja)
+[![Gmail Badge](https://img.shields.io/badge/Email%20Me%20on%20Gmail-red?style=for-the-badge&logo=gmail)](mailto:ariwiraatmaja@gmail.com)
 
 ---
 
