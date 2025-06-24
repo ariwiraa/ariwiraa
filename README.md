@@ -53,7 +53,7 @@ poject saat bootcamp golang
 ## Let's connect! 🤝
 
 - 📧 Email: ariwiraatmaja@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/ari-wira-atmaja)
+- 💼 LinkedIn: [linkedin.com/in/ariwiraatmaja](https://linkedin.com/in/ari-wira-atmaja)
 
 ---
 
