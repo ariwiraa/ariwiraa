@@ -12,7 +12,6 @@ Backend Developer berbasis di Bekasi, Indonesia, dengan pengalaman 2+ tahun dala
 | **Frameworks** | Spring Boot, Gin Gonic |
 | **Databases** | PostgreSQL, Redis (Caching), Oracle DB |
 | **Messaging/CDC** | Debezium, Solace Cloud |
-| **Infrastructure** | Docker, IIS, Git, Linux |
 
 ## 💻 Featured Projects
 
